@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# umbigo
+data/
+*.sqlite
+*.sqlite-*
+Models/artifacts/*.json
